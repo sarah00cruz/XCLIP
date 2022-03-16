@@ -1,0 +1,25 @@
+ID,Name,PNGFilename,Text,x,y,visible
+0,Next,,Next,900,630,yes
+1,Start,,Start Scenario,900,630,yes
+2,Restart,,Restart,130,630,yes
+3,Right,,Advertisements & Crowdfunding,130,630,yes
+4,Left,,Venture Capital from Investors,900,630,yes
+5,Stay,,Stay,900,630,yes
+6,Leave,,Leave,130,630,yes
+7,Adults,,Adults,900,630,yes
+8,Neurodivergent,,Disabled Community,130,630,yes
+9,StaySame,,Keep Same Community,900,630,yes
+10,General,,Expand to General Public,130,630,yes
+11,Neurodivergent,,Neurodivergent Community,130,630,yes
+12,Neurotypical,,Neurotypical Children,900,630,yes
+13,Disabled1,,Focus on Disabled Community,130,630,yes
+14,Product,,Focus on Product Development,900,630,yes
+15,moreMoney,,Try to Get More Money,130,630,yes
+16,Launch,,Launch Product,900,630,yes
+17,Facial,,Facial Recognition,900,630,yes
+18,moreMoney,,Body Language,130,630,yes
+19,Disabled2,,Test with Disabled Community,130,630,yes
+20,facialEnd,,Facial Recognition,900,630,yes
+21,GenPublic,,Test to General Public,130,630,yes
+22,General,,Keep it Niche,130,630,yes
+23,General,,Offer to General Public,900,630,yes
